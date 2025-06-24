@@ -1,0 +1,17 @@
+{
+    "name": "psrworld/laravelicons",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Psrworld\\Laravelicons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "psr world",
+            "email": "psrworld@gmail.com"
+        }
+    ],
+    "require": {}
+}
